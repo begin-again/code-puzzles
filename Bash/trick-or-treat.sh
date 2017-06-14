@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# source: https://www.codeeval.com/open_challenges/220/
+
 file="$1"
 OLDIFS=$IFS
 while read line || [[ -n "$line" ]]
