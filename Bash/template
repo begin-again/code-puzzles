@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+file="$1"
+OLDIFS=$IFS
+IFS="\n"
+while read line || [[ -n "$line" ]]
+do
+
+done < "$file"
+IFS=$OLDIFS
