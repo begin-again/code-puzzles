@@ -1,2 +1,3 @@
 # code-puzzles
-Coding challenges to help me learn languages
+
+Coding challenges to help me learn languages.
